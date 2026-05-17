@@ -4,5 +4,5 @@
 # Obsidian local state
 .obsidian/
 
-# Claude code init and road map
+# Claude code init
 CLAUDE.md
