@@ -1,1 +1,8 @@
+# MacOS
 .DS_Store
+
+# Obsidian local state
+.obsidian/
+
+# Claude code init and road map
+CLAUDE.md
